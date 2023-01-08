@@ -3,7 +3,6 @@
 # Além das funções e classes já definidas, podem acrescentar outras que considerem pertinentes.
 
 # Grupo 49:
-# 99286 Miguel Mano
 # 99300 Pedro Rodrigues
 import sys
 from math import ceil
